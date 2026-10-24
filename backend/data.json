@@ -1,0 +1,85 @@
+{
+  "foods": [
+    {
+      "id": "food-1",
+      "name": "Margherita Pizza",
+      "restaurant": "Pizza Paradise",
+      "category": "Pizza",
+      "price": 249,
+      "emoji": "🍕"
+    },
+    {
+      "id": "food-2",
+      "name": "Cheese Burger",
+      "restaurant": "Burger House",
+      "category": "Burger",
+      "price": 149,
+      "emoji": "🍔"
+    },
+    {
+      "id": "food-3",
+      "name": "Paneer Butter Masala",
+      "restaurant": "Spice Kitchen",
+      "category": "Indian",
+      "price": 229,
+      "emoji": "🍛"
+    },
+    {
+      "id": "food-4",
+      "name": "Hakka Noodles",
+      "restaurant": "Wok Express",
+      "category": "Chinese",
+      "price": 179,
+      "emoji": "🍜"
+    },
+    {
+      "id": "food-5",
+      "name": "Veg Supreme Pizza",
+      "restaurant": "Pizza Paradise",
+      "category": "Pizza",
+      "price": 329,
+      "emoji": "🍕"
+    },
+    {
+      "id": "food-6",
+      "name": "Veggie Burger",
+      "restaurant": "Burger House",
+      "category": "Burger",
+      "price": 129,
+      "emoji": "🍔"
+    },
+    {
+      "id": "food-7",
+      "name": "Veg Biryani",
+      "restaurant": "Spice Kitchen",
+      "category": "Indian",
+      "price": 199,
+      "emoji": "🍚"
+    },
+    {
+      "id": "food-8",
+      "name": "Chocolate Cake",
+      "restaurant": "Sweet Treats",
+      "category": "Dessert",
+      "price": 159,
+      "emoji": "🍰"
+    },
+    {
+      "id": "food-9",
+      "name": "Veg Fried Rice",
+      "restaurant": "Wok Express",
+      "category": "Chinese",
+      "price": 169,
+      "emoji": "🍚"
+    },
+    {
+      "id": "food-10",
+      "name": "Ice Cream Sundae",
+      "restaurant": "Sweet Treats",
+      "category": "Dessert",
+      "price": 119,
+      "emoji": "🍨"
+    }
+  ],
+  "orders": []
+}
